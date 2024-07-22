@@ -27,7 +27,6 @@ A cross platform app for music streaming made with Flutter(Android, Windows, lin
 
 
 # Download
-<a href="https://github.com/anandnet/Harmony-Music/releases/latest"><img src ="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width = "250"></a> <a href= "https://f-droid.org/packages/com.anandnet.harmonymusic"><img src = "https://github.com/anandnet/Harmony-Music/blob/main/down_fdroid.png" width = '250'></a></a> 
 
 # Translation
 <a href="https://hosted.weblate.org/engage/harmony-music/">
